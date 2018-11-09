@@ -1,0 +1,13 @@
+{
+    "name":"Ease",
+    "description":"Your trusted ease extension",
+    "version":"0.1",
+    "manifest_version":1,
+    "permissions":["management"],
+    "chrome_url_overrides":{
+        "newtab":"index.html"
+    },
+    "icons":{
+        "128":"logo.png"
+    }
+}
